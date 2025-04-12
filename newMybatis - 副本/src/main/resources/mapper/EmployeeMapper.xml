@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.newmybatis.mapper.EmployeeMapper">
+<!--mapper和xml之间的对应关系-->
+
+    <select id="selectAll" resultType="org.example.newmybatis.entity.Employee">
+        select  employee.* ,depttable.name as departmentName from employee
+            left join depttable on employee.dept_id=depttable.id
+        <where>
+            <if test="name !=null">
+               employee.name like concat('%',#{name},'%')
+            </if>
+        </where>
+        order by id desc
+    </select>
+    <insert id="insert" parameterType="org.example.newmybatis.entity.Employee">
+        insert into `employee`(name,gender,number,des,dept_id,username,password,role,avatar)
+        values (#{name},#{gender},#{number},#{des},#{deptId},#{username},#{password},#{role},#{avatar})
+    </insert>
+    <update id="updateById" parameterType="org.example.newmybatis.entity.Employee">
+        update `employee`
+        set name=#{name},gender=#{gender },number=#{number},des=#{des},dept_id=#{deptId},username=#{username},
+            password=#{password},role=#{role},avatar=#{avatar}
+        where id=#{id}
+    </update>
+
+</mapper>

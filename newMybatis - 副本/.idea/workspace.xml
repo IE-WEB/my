@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ace6c61-3937-4ecd-a826-03d4ee2df378" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vscode/12.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/demotest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demotest/src/TriangleJudgment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myspring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myspring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/src/main/java/org/example/myspring/MyspringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myspring/src/main/java/org/example/myspring/MyspringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myspring/src/test/java/org/example/myspring/MyspringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myspring/src/test/java/org/example/myspring/MyspringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Options API Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IE-WEB&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IE-WEB/-.git&quot;,
+    &quot;accountId&quot;: &quot;7bca17d0-1edd-4c09-8cb1-7616f76a2b96&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\apache-maven-3.9.9" />
+        <option name="localRepository" value="D:\aa" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vFgpqId5HTMQMqcXHpPzcxoB1d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.NewMybatisApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/newMybatis/vue/src/views&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.116959065&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IntelliJ IDEA 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Options API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\newMybatis\vue\src\views" />
+      <recent name="D:\code\newMybatis\src\main\resources\mapper" />
+      <recent name="D:\code\newMybatis\vue\src\assets" />
+      <recent name="D:\code\newMybatis\vue\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\newMybatis\vue\public" />
+      <recent name="D:\code\newMybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.newmybatis.mapper" />
+      <recent name="org.example.newmybatis.Service" />
+      <recent name="org.example.newmybatis.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NewMybatisApplication">
+    <configuration name="NewMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="newMybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.newmybatis.NewMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="Spring Boot.NewMybatisApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ace6c61-3937-4ecd-a826-03d4ee2df378" name="Changes" comment="" />
+      <created>1743746423099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743746423099</updated>
+      <workItem from="1743746424236" duration="203000" />
+      <workItem from="1743746638481" duration="9977000" />
+      <workItem from="1743818185056" duration="18528000" />
+      <workItem from="1743914177853" duration="20638000" />
+      <workItem from="1743984807062" duration="48000" />
+      <workItem from="1744022233743" duration="13356000" />
+      <workItem from="1744093553001" duration="8406000" />
+      <workItem from="1744103909644" duration="13394000" />
+      <workItem from="1744125189762" duration="97000" />
+      <workItem from="1744125295204" duration="352000" />
+      <workItem from="1744156657258" duration="27494000" />
+      <workItem from="1744259494012" duration="17896000" />
+      <workItem from="1744347893076" duration="23603000" />
+      <workItem from="1744383633517" duration="1735000" />
+      <workItem from="1744431223687" duration="8758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>

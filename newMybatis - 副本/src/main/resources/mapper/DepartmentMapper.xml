@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.newmybatis.mapper.DepartmentMapper">
+<!--mapper和xml之间的对应关系-->
+
+    <select id="selectAll" resultType="org.example.newmybatis.entity.Department">
+        select  * from depttable
+        <where>
+            <if test="name !=null">
+                name like concat('%',#{name},'%')
+            </if>
+        </where>
+        order by id desc
+    </select>
+    <insert id="insert" parameterType="org.example.newmybatis.entity.Department">
+        insert into `depttable`(name)
+        values (#{name})
+    </insert>
+    <update id="updateById" parameterType="org.example.newmybatis.entity.Department">
+        update `depttable`
+        set name=#{name}
+        where id=#{id}
+    </update>
+
+</mapper>

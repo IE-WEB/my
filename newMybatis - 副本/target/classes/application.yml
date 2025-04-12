@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/myproject?characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: root
+    password: Hkhdl58666
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  ##?????xml??
+
+  mapper-locations: classpath:mapper/*.xml
+
+  configuration:
+    #????????
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#????,???????????
+    map-underscore-to-camel-case: true
+
+pagehelper:
+  helper-dialect: mysql # 数据库方言，根据实际数据库类型修改
+  reasonable: true # 分页合理化参数，默认值为 false
+  support-methods-arguments: true # 支持通过 Mapper 接口参数来传递分页参数，默认值为 false
+  params: count=countSql # 为了支持 RowBounds 类型的参数，默认值为 count=countSql
